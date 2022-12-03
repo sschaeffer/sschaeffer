@@ -1,4 +1,4 @@
-### ✨sschaeffer
+### ✨sschaeffer✨
 
 ### I'm currently working on some 🌱 minecraft tools and other 🔭 fun things
 ### As well as some ⚡ work stuff
