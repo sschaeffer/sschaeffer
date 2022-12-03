@@ -1,4 +1,7 @@
-### Hi there 👋
+### ✨sschaeffer
+
+### I'm currently working on some 🌱 minecraft tools and other 🔭 fun things
+### As well as some ⚡ work stuff
 
 <!--
 **sschaeffer/sschaeffer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
